@@ -1,0 +1,62 @@
+/* Empty. Add your own CSS if you like */
+input{
+	width: 400px !important;
+	border:solid black 2px !important;
+	border-radius: 40px;
+}
+.icono{
+	background: #2f89fc;
+	border-radius: 40px;
+	border:solid 2px black;
+}
+label{
+	background: #2f89fc;
+}
+img{
+	width: 80%;
+	margin-left: 40px;
+	border-radius: 20px !important;
+}
+ion-content{
+	background: url("https://www.filepicker.io/api/file/GIP2rKOgSgO53Z7Pl2My")no-repeat fixed;
+	height: 100%;
+}
+.fondo{
+	background: #2082CF;
+}
+h5{
+	color:#FFF;
+}
+.division{
+	border: solid 4px #FFF;
+}
+button{
+	border-radius: 10%;
+	border: solid 2px #113f67;
+	width: 100% !important;
+	font-size: 15px;
+	color:#FFF;
+	background: #000000;
+}
+input{
+	width: 300px !important;
+	background: none;
+}
+.espacio{
+	height: 200px;
+}
+.centrar{
+	text-align: center;
+}
+.icono2{
+	background: #2f89fc;
+	border-radius: 40px;
+	border:solid 2px black;
+	font-size: 35px;
+}
+.fonregistro{
+	background: #000000;
+}
+.espacio2{
+	margin: 3%;
+}
